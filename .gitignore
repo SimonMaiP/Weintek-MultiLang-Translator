@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# PyInstaller
+_internal/
+tmp_build/
+
+# User data (runtime)
+settings.json
+日志/
+词典/
+
+# 其他（独立/空 git 仓库，勿纳入主仓库）
+Weintek-MultiLang-Translator/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
