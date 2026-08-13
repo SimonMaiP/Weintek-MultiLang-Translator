@@ -14,6 +14,24 @@
 | `icon.ico` / `icon.png` | 应用图标 |
 | `更新日志.md` | 版本更新记录 |
 
+# 🌐 Weintek-MultiLang-Translator
+威纶通触摸屏多语言翻译工具
+
+## ✨ Features
+- 🖥️ 图形化GUI界面，操作简单直观
+- 📄 支持Excel批量导入、导出翻译文本
+- 🌍 面向威纶通HMI项目多语言文本管理
+- 📦 支持打包独立EXE程序
+
+- 🖥️ Graphical GUI interface, easy to operate
+- 📄 Support Excel batch import & export translation content
+- 🌍 Multilingual text management for Weintek HMI
+- 📦 Can be packaged into standalone EXE
+
+## 🛠 Environment
+```bash
+pip install -r requirements.txt
+
 ## 环境准备
 
 ```bash
